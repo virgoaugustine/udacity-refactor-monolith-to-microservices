@@ -15,7 +15,7 @@ spec:
         service: reverseproxy
     spec:
       containers:
-      - image: virgoaugustine/udagram-reverseproxy:v1
+      - image: virgoaugustine/udagram-reverseproxy:v2
         name: reverseproxy
         imagePullPolicy: Always
         resources:
