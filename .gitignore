@@ -1,0 +1,7 @@
+.DS_Store
+screenshots/.DS_Store
+set_env.sh
+aws-secret.yml
+env-secret.yml
+env-configmap.yml
+
